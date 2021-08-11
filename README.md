@@ -1,6 +1,6 @@
 # Base discord.js V13
 
-My bot : [UnityBot {Engin}](https://top.gg/fr/bot/837620596774010880). Base discord.js V13 is made with ♥ With JavaScript by [@flyhart](https://github.com/flyhart)
+My bot : [UnityBot {Engin}](https://top.gg/fr/bot/837620596774010880). Base discord.js V13 is made with ♥ With JavaScript by [@El-Foxy](https://github.com/El-Foxy)
 
 # Setup
 
@@ -40,4 +40,4 @@ npm i <module_name>
 
 # Authors
 
-- [@flyhart](https://www.github.com/flyhart)
+- [@El-Foxy](https://www.github.com/El-Foxy)
